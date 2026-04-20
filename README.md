@@ -16,13 +16,8 @@ A simple e-commerce website for browsing products, adding to cart, and basic sho
 ## 🛠️ Tech Stack  
 HTML, CSS, JavaScript,  
 
-## ⚙️ Setup  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
 ## 🌐 Live Demo  
-(Add link here)
+https://priyanshu-krs.github.io/e-commerce-website/
 
 ## 📄 License  
 For educational use only.

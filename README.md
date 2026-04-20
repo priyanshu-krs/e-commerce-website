@@ -10,7 +10,6 @@ A simple e-commerce website for browsing products, adding to cart, and basic sho
 ## 🚀 Features  
 - Product listing  
 - Add to cart  
-- User login/signup  
 - Responsive design  
 
 ## 🛠️ Tech Stack  
